@@ -1,0 +1,10 @@
+{
+  "Produtos": [
+    {
+      "id": "ca69",
+      "titulo": "Fernenda",
+      "preco": "50.0",
+      "urlImagem": "https://github.com/kety95.png"
+    }
+  ]
+}
